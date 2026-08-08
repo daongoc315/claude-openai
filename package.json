@@ -48,7 +48,7 @@
     "@anthropic-ai/claude-agent-sdk": "^0.2.126",
     "async-mutex": "^0.5.0",
     "effect": "^3.21.2",
-    "execa": "^9.6.1",
+    "execa": "^10.0.1",
     "p-queue": "^9.2.0",
     "zod": "^4.0.0"
   },
